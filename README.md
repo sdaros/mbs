@@ -1,4 +1,4 @@
 mBraceSquare
 ===
 
-The meta BraceSquare (mBraceSquare) Language is used to represent metadata in text. 
+The markup BraceSquare (mBraceSquare) Language is used to represent metadata in text. 
